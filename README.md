@@ -4,7 +4,7 @@
 
 The [Fullstack Convention Center](https://fsa-crud-2aa9294fe819.herokuapp.com/api) hosts a variety of events, from small meetings to large galas. Build a web application so visitors can get the latest information on upcoming events.
 
-Read the [API documentation](https://fsa-crud-2aa9294fe819.herokuapp.com/api/#tag/Events). You will be working mainly with the `/events` endpoints.
+Read the [API documentation](https  ://fsa-crud-2aa9294fe819.herokuapp.com/api/#tag/Events). You will be working mainly with the `/events` endpoints.
 
 ## Requirements
 
@@ -13,6 +13,7 @@ For this workshop, you'll be starting from scratch! You are highly encouraged to
 - `index.html` is not modified. All elements are generated via JS.
 - The application updates state by fetching an array of parties from the API.
 - The application renders a list of party names.
+
 - When a party name is clicked on, the application updates state by fetching information about a single party from the API.
 - The application renders the name, ID, date, description, and location of the selected party.
 - The application renders a message telling users to select a party if none is selected.
